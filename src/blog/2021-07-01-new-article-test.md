@@ -2,7 +2,7 @@
 title: New Article test
 description: This is the description and . . . .
 author: Karan
-date: 2021-07-01T23:42:50.691Z
+date: 2021-07-02T23:42:50.691Z
 tags:
   - post
   - featured
